@@ -1,8 +1,11 @@
 body {
   background-color: lightblue;
-  text-align: center;
+  text-align: left;
   padding-left: 15%;
   padding-right: 15%;
+  font-size: 25px;
+  font-family: "Times New Roman";
+  line-height: 2;
 }
 
 img {
@@ -11,9 +14,22 @@ img {
 }
 
 .pictures {
+  padding-top: 100px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   height: 50%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-indent: 45px;
 }
