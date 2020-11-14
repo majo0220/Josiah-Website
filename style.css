@@ -14,7 +14,26 @@ img {
 }
 
 .pictures {
-  padding-top: 100px;
+  padding-top: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+.pictures2 {
+  padding-left: 125px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+.pictures3 {
+  /* padding-top: 100px; */
+  padding-left: 185px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -27,9 +46,16 @@ h1 {
 }
 
 h2 {
+  /* padding-top: -50px; */
   text-align: center;
+  line-height: 30px;
+  margin: 0px;
 }
 
 p {
   text-indent: 45px;
+}
+
+.paragraphs2{
+  padding-top: 75px;
 }
